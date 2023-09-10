@@ -4,7 +4,7 @@
   "description": "Aarif POP Home Solutions",
   "main": "index.js",
   "scripts": {
-    "build": "sass src/styles.scss public/styles.css"
+    "build": ""
   },
   "keywords": [],
   "author": "",
